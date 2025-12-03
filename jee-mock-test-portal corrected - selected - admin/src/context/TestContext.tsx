@@ -4691,7 +4691,7 @@ export function TestProvider({ children }: { children: ReactNode }) {
       }
     });
     const totalMarks = correct * 4 - incorrect * 1;
-    const maxMarks = questions.length;
+    const maxMarks = questions.length * 4;
     return { correct, incorrect, unattempted, totalMarks, maxMarks };
   };
 
