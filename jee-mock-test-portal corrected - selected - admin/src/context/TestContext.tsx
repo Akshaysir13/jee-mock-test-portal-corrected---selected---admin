@@ -4372,7 +4372,7 @@ const initialTests: Test[] = [
 //{ id: 'Grey Mock Test 23', name: 'Grey Mock Test 23', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2000, 2050), category: 'grey' },
 //{ id: 'Grey Mock Test 24', name: 'Grey Mock Test 24', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2050, 2100), category: 'grey' },
 //{ id: 'Grey Mock Test 4', name: 'Grey Mock Test 4', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2100, 2150), category: 'grey' },
-{ id: 'Grey Mock Test 26', name: 'Grey Mock Test 26', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2150, 2200), category: 'grey' },
+//{ id: 'Grey Mock Test 26', name: 'Grey Mock Test 26', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2150, 2200), category: 'grey' },
 //{ id: 'Grey Mock Test 27', name: 'Grey Mock Test 27', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2200, 2250), category: 'grey' },
 //{ id: 'Grey Mock Test 28', name: 'Grey Mock Test 28', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2250, 2300), category: 'grey' },
 //{ id: 'Grey Mock Test 29', name: 'Grey Mock Test 29', description: 'Mock test based on Actual PYQ', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(2300, 2350), category: 'grey' },
