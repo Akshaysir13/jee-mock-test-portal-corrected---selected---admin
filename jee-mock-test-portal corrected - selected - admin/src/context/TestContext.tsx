@@ -2096,7 +2096,7 @@ const sampleQuestions: Question[] = [
 // Grey Mock Test 24
 { id: 1, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1Z4RQQUItNk1Z5jzaTl2gjhVZxR5XgZ-O&sz=w2000", optionA: "d", optionB: "c", optionC: "b", optionD: "a", correctOption: "d" },
 { id: 2, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=14zFutem9MY5b_ZgAOVIB09X9snWXdLUJ&sz=w2000", optionA: "d", optionB: "a", optionC: "b", optionD: "c", correctOption: "d" },
-{ id: 3, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1BaLE_A0WP8hOXmFnW4RlRLGsd2qDSK_4&sz=w2000", optionA: "c", optionB: "a", optionC: "b", optionD: "d", correctOption: "d" },
+{ id: 3, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1BaLE_A0WP8hOXmFnW4RlRLGsd2qDSK_4&sz=w2000", optionA: "c", optionB: "a", optionC: "d", optionD: "b", correctOption: "d" },
 { id: 4, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1VPybKGKR8MhHk3Ga9FTImq-pMMwuFJkf&sz=w2000", optionA: "b", optionB: "a", optionC: "c", optionD: "d", correctOption: "d" },
 { id: 5, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1gCL3XZ6YRKpgMh-wgzTRqIIesHND_33r&sz=w2000", optionA: "c", optionB: "a", optionC: "b", optionD: "d", correctOption: "d" },
 { id: 6, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1i57WYHH_Opir7gD96J74n1Knit5OhASC&sz=w2000", optionA: "a", optionB: "b", optionC: "d", optionD: "c", correctOption: "d" },
@@ -2106,7 +2106,7 @@ const sampleQuestions: Question[] = [
 { id: 10, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1IKMj_HRQbHsR6y7TyQC7IsGn1CjidtaS&sz=w2000", optionA: "c", optionB: "b", optionC: "d", optionD: "a", correctOption: "d" },
 { id: 11, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1uzjfr17U7XfpEg_j4YzXi8PoSQGXE3O_&sz=w2000", optionA: "b", optionB: "c", optionC: "a", optionD: "d", correctOption: "d" },
 { id: 12, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1fmGd3EduCQSEnxEC6Rn1jmzsGS3oI2tc&sz=w2000", optionA: "d", optionB: "b", optionC: "c", optionD: "a", correctOption: "d" },
-{ id: 13, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1CeRwmRBKg5aPa7Nuy0ilcG6banG8-Mo1&sz=w2000", optionA: "d", optionB: "c", optionC: "a", optionD: "b", correctOption: "d" },
+{ id: 13, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1CeRwmRBKg5aPa7Nuy0ilcG6banG8-Mo1&sz=w2000", optionA: "d", optionB: "c", optionC: "b", optionD: "a", correctOption: "d" },
 { id: 14, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1BUlw7NABqC0tdex542kFigtFcJUuJIJ4&sz=w2000", optionA: "a", optionB: "d", optionC: "b", optionD: "c", correctOption: "d" },
 { id: 15, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=1y0YHuSJP_Nbi4Kld5J8lFDiUmvLdbL2n&sz=w2000", optionA: "d", optionB: "c", optionC: "b", optionD: "a", correctOption: "d" },
 { id: 16, question: "Read the Instructions Carefully", image: "https://drive.google.com/thumbnail?id=11vZapvc1ptXLW47_DboT9_aWUPxTm7D6&sz=w2000", optionA: "b", optionB: "a", optionC: "d", optionD: "c", correctOption: "d" },
